@@ -1,0 +1,2 @@
+include setup.py npm.pth README.md MANIFEST.in LICENSE
+global-exclude *~
